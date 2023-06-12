@@ -1,0 +1,134 @@
+[
+    {
+        "Id" : 1,
+        "Name" : "The Willows",
+        "ImgURL" : "https://inmobiliariasantander.com.mx/wp-content/uploads/2023/05/1-15-525x328.jpeg",
+        "Address" : "3517 W. Gray St. Utica",
+        "Rooms" : "3",
+        "Bathrooms": "2",
+        "Area": "230",
+        "MontlyRental" : "440",
+        "Rating" : "4.7"
+    },
+    {
+        "Id" : 2,
+        "Name" : "The Earl",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/51d459beefbb05c7334afa8bc61031d2-cc_ft_1536.webp",
+        "Address" : "316 SW 62nd Blvd, Gainesville",
+        "Rooms" : "4",
+        "Bathrooms": "5",
+        "Area": "619",
+        "MontlyRental" : "1,249",
+        "Rating" : "4.9"
+    },
+    {
+        "Id" : 3,
+        "Name" : "Bristol Park",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/2971a378bd98d16a5e7ca24daf9e573b-cc_ft_768.webp",
+        "Address" : "902 Walter P Holliday Blvd",
+        "Rooms" : "4",
+        "Bathrooms": "3",
+        "Area": "340",
+        "MontlyRental" : "3,175",
+        "Rating" : "4.4"
+    },
+    {
+        "Id" : 4,
+        "Name" : "Livano",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/8052d8d768de77a2a76133169aa1e238-cc_ft_384.webp",
+        "Address" : "3301 E Pecan St, Pflugerville",
+        "Rooms" : "1",
+        "Bathrooms": "1",
+        "Area": "681",
+        "MontlyRental" : "1,460",
+        "Rating" : "4.5"
+    },
+    {
+        "Id" : 5,
+        "Name" : "Watterscape",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/1f2cf413aa1549223527f2a5976ba781-cc_ft_768.webp",
+        "Address" : "930 Ridgeview Dr, Allen",
+        "Rooms" : "2",
+        "Bathrooms": "2",
+        "Area": "1,297",
+        "MontlyRental" : "2,750",
+        "Rating" : "3.9"
+    },
+    {
+        "Id" : 6,
+        "Name" : "Parkway Place",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/f32ea4fe643bb7320d360b06b278bf5b-cc_ft_768.webp",
+        "Address" : "4040 W 31st St, Minneapolis",
+        "Rooms" : "3",
+        "Bathrooms": "6",
+        "Area": "900",
+        "MontlyRental" : "2,000",
+        "Rating" : "5.0"
+    },
+    {
+        "Id" : 7,
+        "Name" : "The Willows",
+        "ImgURL" : "https://inmobiliariasantander.com.mx/wp-content/uploads/2023/05/1-15-525x328.jpeg",
+        "Address" : "3517 W. Gray St. Utica",
+        "Rooms" : "3",
+        "Bathrooms": "2",
+        "Area": "230",
+        "MontlyRental" : "440",
+        "Rating" : "4.7"
+    },
+    {
+        "Id" : 8,
+        "Name" : "The Earl",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/51d459beefbb05c7334afa8bc61031d2-cc_ft_1536.webp",
+        "Address" : "316 SW 62nd Blvd, Gainesville",
+        "Rooms" : "4",
+        "Bathrooms": "5",
+        "Area": "619",
+        "MontlyRental" : "1,249",
+        "Rating" : "4.9"
+    },
+    {
+        "Id" : 9,
+        "Name" : "Bristol Park",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/2971a378bd98d16a5e7ca24daf9e573b-cc_ft_768.webp",
+        "Address" : "902 Walter P Holliday Blvd",
+        "Rooms" : "4",
+        "Bathrooms": "3",
+        "Area": "340",
+        "MontlyRental" : "3,175",
+        "Rating" : "4.4"
+    },
+    {
+        "Id" : 10,
+        "Name" : "Livano",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/8052d8d768de77a2a76133169aa1e238-cc_ft_384.webp",
+        "Address" : "3301 E Pecan St, Pflugerville",
+        "Rooms" : "1",
+        "Bathrooms": "1",
+        "Area": "681",
+        "MontlyRental" : "1,460",
+        "Rating" : "4.5"
+    },
+    {
+        "Id" : 11,
+        "Name" : "Watterscape",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/1f2cf413aa1549223527f2a5976ba781-cc_ft_768.webp",
+        "Address" : "930 Ridgeview Dr, Allen",
+        "Rooms" : "2",
+        "Bathrooms": "2",
+        "Area": "1,297",
+        "MontlyRental" : "2,750",
+        "Rating" : "3.9"
+    },
+    {
+        "Id" : 12,
+        "Name" : "Parkway Place",
+        "ImgURL" : "https://photos.zillowstatic.com/fp/f32ea4fe643bb7320d360b06b278bf5b-cc_ft_768.webp",
+        "Address" : "4040 W 31st St, Minneapolis",
+        "Rooms" : "3",
+        "Bathrooms": "6",
+        "Area": "900",
+        "MontlyRental" : "2,000",
+        "Rating" : "5.0"
+    }
+]
