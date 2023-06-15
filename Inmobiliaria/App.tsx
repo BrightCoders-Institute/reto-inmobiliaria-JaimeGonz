@@ -9,10 +9,8 @@ import {
   View,
 } from 'react-native';
 
-import {
-  Colors,
-} from 'react-native/Libraries/NewAppScreen';
-import { CardList } from './src/Components/CardList';
+import {Colors} from 'react-native/Libraries/NewAppScreen';
+import {CardList} from './src/Components/CardList';
 
 type SectionProps = PropsWithChildren<{
   title: string;
@@ -48,9 +46,13 @@ function App(): JSX.Element {
         barStyle={isDarkMode ? 'light-content' : 'dark-content'}
         backgroundColor={backgroundStyle.backgroundColor}
       />
-      <View style={[ styles.container, { backgroundColor: isDarkMode ? Colors.black : Colors.white}]}>
-        <Section title="Inmobiliaria" ></Section>
-        <CardList/>
+      <View
+        style={[
+          styles.container,
+          {backgroundColor: isDarkMode ? Colors.black : Colors.white},
+        ]}>
+        <Section title="Inmobiliaria" />
+        <CardList />
       </View>
     </SafeAreaView>
   );
@@ -60,16 +62,16 @@ const styles = StyleSheet.create({
   sectionContainer: {
     marginTop: 32,
     paddingHorizontal: 24,
-    marginBottom: 10
+    marginBottom: 10,
   },
   sectionTitle: {
     fontSize: 24,
     fontWeight: '600',
-    textAlign: 'center'
+    textAlign: 'center',
   },
   container: {
-    flex: 1
-  }
+    flex: 1,
+  },
 });
 
 export default App;
